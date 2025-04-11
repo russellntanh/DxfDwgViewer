@@ -1,0 +1,16 @@
+# Bỏ qua thư mục build và debug
+DxfDwgViewer/bin/
+DxfDwgViewer/obj/
+DxfDwgViewer/Debug/
+DxfDwgViewer/Release/
+
+# Bỏ qua các file tạm của Visual Studio
+*.user
+*.suo
+*.vcxproj.user
+*.csproj.user
+*.db
+*.log
+
+# Bỏ qua các file .vs
+.vs

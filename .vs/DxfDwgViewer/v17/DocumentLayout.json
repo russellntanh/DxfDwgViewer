@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\",
+  "WorkspaceRootPath": "E:\\Code\\devtool\\DxfDwgViewer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|e:\\code\\devtool\\dxfdwgviewer\\dxfdwgviewer\\dxfdwgviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{021FA9BD-C6EC-44DA-810D-CEA7A15D1846}|ACadSharp\\src\\ACadSharp\\ACadSharp.csproj|e:\\code\\devtool\\dxfdwgviewer\\acadsharp\\src\\acadsharp\\entities\\hatchpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021FA9BD-C6EC-44DA-810D-CEA7A15D1846}|ACadSharp\\src\\ACadSharp\\ACadSharp.csproj|solutionrelative:acadsharp\\src\\acadsharp\\entities\\hatchpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|E:\\Code\\devtool\\DxfDwgViewer\\dxfdwgviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|solutionrelative:dxfdwgviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|e:\\code\\devtool\\dxfdwgviewer\\dxfdwgviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|solutionrelative:dxfdwgviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|e:\\code\\devtool\\dxfdwgviewer\\dxfdwgviewer\\dxfdwgviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|solutionrelative:dxfdwgviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|e:\\code\\devtool\\dxfdwgviewer\\dxfdwgviewer\\dxfdwgviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A052970F-366A-4851-8705-C10868D43BD1}|DxfDwgViewer\\DxfDwgViewer.csproj|solutionrelative:dxfdwgviewer\\dxfdwgviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HatchPattern.cs",
+              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\ACadSharp\\src\\ACadSharp\\Entities\\HatchPattern.cs",
+              "RelativeDocumentMoniker": "ACadSharp\\src\\ACadSharp\\Entities\\HatchPattern.cs",
+              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\ACadSharp\\src\\ACadSharp\\Entities\\HatchPattern.cs",
+              "RelativeToolTip": "ACadSharp\\src\\ACadSharp\\Entities\\HatchPattern.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAIAywGsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:39:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DxfDwgViewer",
+              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer.csproj",
+              "RelativeDocumentMoniker": "DxfDwgViewer\\DxfDwgViewer.csproj",
+              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer.csproj",
+              "RelativeToolTip": "DxfDwgViewer\\DxfDwgViewer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T08:38:39.351Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -38,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DxfDwgViewer\\MainWindow.xaml",
-              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml",
               "RelativeToolTip": "DxfDwgViewer\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-11T07:54:43.518Z",
@@ -52,11 +86,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DxfDwgViewer\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Code\\devtool\\DxfDwgViewer\\DxfDwgViewer\\MainWindow.xaml.cs",
               "RelativeToolTip": "DxfDwgViewer\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAANMAAAAAAAAAAAAswNQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T07:54:41.976Z",
               "EditorCaption": ""

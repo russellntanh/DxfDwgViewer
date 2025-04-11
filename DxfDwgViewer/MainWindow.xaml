@@ -6,7 +6,23 @@
         xmlns:local="clr-namespace:DxfDwgViewer"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top" Height="40">
+            <Button x:Name="ImportDXF" Width="50" Height="30" Click="ImportDXF_Click">
+                <TextBlock Text="&#xED25;" FontFamily="Segoe MDL2 Assets" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Button>
 
-    </Grid>
+        </ToolBar>
+
+        <!--Status bar-->
+        <StatusBar DockPanel.Dock="Bottom" Height="30" Background="LightGray">
+            <TextBlock x:Name="MousePositionText" Text="(X: 0, Y: 0)"/>
+        </StatusBar>
+
+        <!--Drawing canvas-->
+        <Canvas x:Name="DrawingCanvas" Background="Black" 
+            MouseMove="DrawingCanvas_MouseMove">
+
+        </Canvas>
+    </DockPanel>
 </Window>
